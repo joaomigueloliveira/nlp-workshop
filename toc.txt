@@ -1,0 +1,18 @@
+ToC:
+ - What is NLP
+   - how it's done
+   - tasks (classification, sentiment, NER)
+      - how data is annotated (IMDB datasets)
+      - Applications
+          - FhP
+          - known applications and datasets
+             - Spam detection
+             - Assistants/Chatbots
+             - topic mining
+             - GPT3
+------
+Exercise with running example (text classification)
+ - TF-IDF
+ - Global word embeddings
+ - Contextual word embeddings 
+     - BERT 
